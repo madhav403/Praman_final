@@ -1,0 +1,6 @@
+{
+  "name": "GeM Bid Compliance Verification Platform",
+  "description": "AI-powered decision-support platform for Government e-Marketplace (GeM) bidder compliance verification, statutory checks, RAG regulatory search, and officer audit workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
